@@ -1,0 +1,41 @@
+.class{
+    width: 500px;
+    
+    color: rgb(107, 105, 105);
+opacity: 70%;
+
+}
+.class1{
+    
+    background-color: white;
+    text-align: center;
+}
+.class1 hr{
+    width: 80px;
+}
+.bt1{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    width: 80px;
+    height: 30px;
+    background-color: rgb(48, 48, 237);
+    color: white;
+    font-family: sans-serif;
+}
+.bt2{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    width: 80px;
+    height: 30px;
+    background-color: white;
+    color: gray;
+    font-family: sans-serif;
+}
+.class2{
+    background-color: whitesmoke;
+    text-align: center;
+    height: 150px;
+    padding-top: 30px;
+    
+
+}
